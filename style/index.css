@@ -1,0 +1,15 @@
+ul {
+    margin-top: 40px;
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+a {
+    padding: 16px;
+    text-decoration: none;
+}
+
+img {
+    cursor: pointer;
+}
